@@ -104,25 +104,25 @@ main{
 .p1{
 	width: 21vw;
 	height: 35vh;
-	background: url("img/i2.webp") no-repeat center;
+	background: url("i2.webp") no-repeat center;
 	background-size: contain;
 
 }.p2{
 	width: 21vw;
 	height: 35vh;
-	background: url("img/i3.webp") no-repeat center;
+	background: url("i3.webp") no-repeat center;
 	background-size: contain;
 
 }.p3{
 	width: 21vw;
 	height: 35vh;
-	background: url("img/i4.webp") no-repeat center;
+	background: url("i4.webp") no-repeat center;
 	background-size: contain;
 
 }.p4{
 	width: 21vw;
 	height: 35vh;
-	background: url("img/i5.webp") no-repeat center;
+	background: url("i5.webp") no-repeat center;
 	background-size: contain;
 }
 
@@ -271,7 +271,7 @@ h2{
 	height: 80vh;
 	width: 360vw;
 	/* border: 2px solid black;; */
-	background: url("img/i19.webp") no-repeat center;
+	background: url("i19.webp") no-repeat center;
 	background-size: cover;
 }
 
